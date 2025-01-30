@@ -1,11 +1,11 @@
 # 📊 Métodos e Técnicas de Modelagem Estatística e Machine Learning
 
-Este repositório contém uma lista organizada de métodos e técnicas utilizados em modelagem estatística, aprendizado de máquina e séries temporais. As técnicas foram classificadas em três categorias principais: **Estatísticas Básicas**, **Técnicas PCA**, e **Séries Temporais**.
+Este repositório contém uma lista organizada de métodos e técnicas utilizados em modelagem estatística, aprendizado de máquina e séries temporais. As técnicas foram classificadas com base nos TCCs que supervisionei este semestre**.
 
 ---
 
-## 📌 Estatísticas Básicas
-Conjunto de métodos estatísticos essenciais para análise de dados e modelagem preditiva.
+## 📌 Estatísticas Básicas (Reflete o meu TCC)
+Conjunto de métodos estatísticos essenciais para análise de dados e modelagem preditiva. Aqui fiz uma preparação pré e pós treinamento, teste e validação externa, contém diversas análises de erro.
 
 - **AR** *(Auto-Regressive)* – modelo de regressão baseado em valores passados da série.
 - **ARMA** *(Auto-Regressive Moving Average)* – combinação de modelos autoregressivos e médias móveis.
@@ -20,7 +20,7 @@ Conjunto de métodos estatísticos essenciais para análise de dados e modelagem
 
 ---
 
-## 🛠️ Técnicas PCA
+## 🛠️ Técnicas PCA (Reflete um TCC que supervisionei) 
 Métodos avançados para otimização de modelos e redução de dimensionalidade.
 
 - **AR** *(Auto-Regressive)* – modelo de regressão para séries temporais.
@@ -38,7 +38,7 @@ Métodos avançados para otimização de modelos e redução de dimensionalidade
 
 ---
 
-## 📈 Séries Temporais
+## 📈 Séries Temporais (Reflete um TCC que supervisionei) 
 Métodos e técnicas especializados na análise e modelagem de dados sequenciais ao longo do tempo.
 
 - **AR** *(Auto-Regressive)* – modelo de regressão para séries temporais.
@@ -69,8 +69,7 @@ Métodos e técnicas especializados na análise e modelagem de dados sequenciais
 
 ---
 
-## 📜 Contribuições
-Se você deseja adicionar novas técnicas ou melhorar as descrições existentes, fique à vontade para abrir uma issue ou um pull request! 🚀
-
 ## 📧 Contato
 Caso tenha dúvidas ou sugestões, entre em contato. 😊
+cel - (19) 99507-7848
+e-mail - orlando.pardini@outlook.com
