@@ -1,6 +1,6 @@
 # 📊 Métodos e Técnicas de Modelagem Estatística e Machine Learning
 
-Este repositório contém uma lista organizada de métodos e técnicas utilizados em modelagem estatística, aprendizado de máquina e séries temporais. As técnicas foram classificadas com base nos TCCs que supervisionei este semestre**.
+Este repositório contém uma lista organizada de métodos e técnicas utilizados em modelagem estatística, aprendizado de máquina e séries temporais. As técnicas foram classificadas com base nos TCCs que supervisionei este semestre.
 
 ---
 
