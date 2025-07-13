@@ -1,10 +1,10 @@
-# 📊 Métodos e Técnicas de Modelagem Estatística e Machine Learning
+#  Métodos e Técnicas de Modelagem Estatística e Machine Learning
 
 Este repositório contém uma lista organizada de métodos e técnicas utilizados em modelagem estatística, aprendizado de máquina e séries temporais. As técnicas foram classificadas com base nos TCCs que supervisionei este semestre. Meu TCC também se encontra em anexo caso queiram entender como se deu as métricas e a parte teórica envolvente.
 
 ---
 
-## 📌 Estatísticas Básicas (Reflete o meu TCC)
+##  Estatísticas Básicas (Reflete o meu TCC)
 Conjunto de métodos estatísticos essenciais para análise de dados e modelagem preditiva. Aqui fiz uma preparação pré e pós treinamento, teste e validação externa, contém diversas análises de erro.
 
 - **AR** *(Auto-Regressive)* – modelo de regressão baseado em valores passados da série.
@@ -20,7 +20,7 @@ Conjunto de métodos estatísticos essenciais para análise de dados e modelagem
 
 ---
 
-## 🛠️ Técnicas PCA (Reflete um TCC que supervisionei) 
+##  Técnicas PCA (Reflete um TCC que supervisionei) 
 Métodos avançados para otimização de modelos e redução de dimensionalidade.
 
 - **AR** *(Auto-Regressive)* – modelo de regressão para séries temporais.
@@ -38,7 +38,7 @@ Métodos avançados para otimização de modelos e redução de dimensionalidade
 
 ---
 
-## 📈 Séries Temporais (Reflete um TCC que supervisionei) 
+##  Séries Temporais (Reflete um TCC que supervisionei) 
 Métodos e técnicas especializados na análise e modelagem de dados sequenciais ao longo do tempo.
 
 - **AR** *(Auto-Regressive)* – modelo de regressão para séries temporais.
